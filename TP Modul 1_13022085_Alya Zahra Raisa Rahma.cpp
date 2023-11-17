@@ -4,7 +4,7 @@ using namespace std;
 // TP Modul 1 Programming
 // Nama : Alya Zahra Raisa Rahma
 // NIM  : 13022085
-
+  
 int hitung(int t)
 {
     for (int i{t}; i>0; --i)
